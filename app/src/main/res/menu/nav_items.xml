@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_appraisals"
+        android:icon="@drawable/baseline_bar_chart_black_24dp"
+        android:title="@string/nav_appraisals" />
+    <item
+        android:id="@+id/nav_vehicles"
+        android:icon="@drawable/baseline_directions_car_black_24dp"
+        android:title="@string/nav_vehicles" />
+    <item
+        android:id="@+id/nav_vhc"
+        android:icon="@drawable/baseline_show_chart_black_24dp"
+        android:title="@string/nav_vhc" />
+    <item
+        android:id="@+id/nav_more"
+        android:icon="?android:attr/listChoiceIndicatorMultiple"
+        android:title="@string/nav_more" />
+</menu>
